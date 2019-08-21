@@ -8,7 +8,6 @@ Route::get('about', 'AboutController@Index');
 
 Auth::routes();
 
-l
 Route::get('/home', 'HomeController@index')->name('home');
 
 
