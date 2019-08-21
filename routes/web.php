@@ -9,3 +9,5 @@ Route::get('about', 'AboutController@Index');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+
