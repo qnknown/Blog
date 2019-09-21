@@ -11,3 +11,5 @@ class post extends Model {
         'user_id'
     ];
 }
+
+  
